@@ -14,4 +14,4 @@ You can also try to pair manually.
   3. Double tap the MFB and enter into pairing mode
   4. The name 'T21' will show on the bluetooth list.
 
-![Falwedi Earbuds](https://images-na.ssl-images-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif)
+![Falwedi Earbuds](https://images-na.ssl-images-amazon.com/images/I/71Jq%2BPUK-RL._AC_SL1500_.jpg)
