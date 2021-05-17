@@ -1,4 +1,9 @@
 # falwedi-earbud-reset
+
+These inexpensive earbuds work well for listening to music while you exercise or work around the house. Occasionally, they do get out of sync with each other. When this happens, getting them linked back up can be maddening. You'll know you're there's somehting wrong when you can only connect one at a time and you see two entries for "T21" in your bluetooth device list.
+
+You can fix them though and it just takes a bit of patience.
+
 ## How to reset and resync falwedi wireless earbuds
 Please reset as follows:
 1. Please make sure the earbuds are fully charged. 
